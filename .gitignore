@@ -4,6 +4,12 @@
 # Network drivers
 Intel_Lan_Win7-81-10_V2023001-2024001.zip
 
+# Chocolatey downloads
+install.ps1
+
+# Vagrant
+.vagrant
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
