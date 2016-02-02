@@ -27,7 +27,8 @@ spotify ^
 sumatrapdf ^
 vagrant ^
 windirstat ^
-you-need-a-budget
+you-need-a-budget ^
+youtube-it
 
 ::install private packages
 .\WinSplit-Revolution-v11.04.exe /S
