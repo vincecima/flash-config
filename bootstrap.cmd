@@ -26,8 +26,8 @@ slack ^
 spotify ^
 sumatrapdf ^
 vagrant ^
+virtualbox ^
 windirstat ^
-you-need-a-budget ^
 youtube-it
 
 ::install private packages
